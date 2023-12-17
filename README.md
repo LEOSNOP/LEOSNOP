@@ -1,10 +1,10 @@
-# Eae de boas
+#😁😁 Eae de boas 😁😁
 
-## Leonardo Moraes da Conceição
+Leonardo Moraes da Conceição
 
-## Analista de Requistos - SECTOTECH
+Atualmente sou Analista de Requistos - SECTOTECH
 
-## Objetivos
+Meus Objetivos
 Sempre estar, Pensando, Evoluindo, Planejando e Desenvolvendo.
 
 Meus Conhecimentos:

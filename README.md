@@ -1,4 +1,4 @@
-😁😁 ## Eae de Boas 😁😁
+## Eae de Boas 😁😁
 
 Leonardo Moraes da Conceição
 

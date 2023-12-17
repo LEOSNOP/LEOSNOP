@@ -1,14 +1,13 @@
 #😁😁 Eae de Boas 😁😁
 
-Meu Nome Leonardo Moraes da Conceição
+Leonardo Moraes da Conceição
 
 Atualmente sou Analista de Requistos - SECTOTECH
 
-Meus Objetivos
+## Meus Objetivos
+  Sempre estar, Pensando, Evoluindo, Planejando e Desenvolvendo.
 
-Sempre estar, Pensando, Evoluindo, Planejando e Desenvolvendo.
-
-Meus Conhecimentos:
+## Meus Conhecimentos:
 - Java
 - JavaScript
 - Cucumber

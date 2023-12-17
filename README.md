@@ -5,10 +5,9 @@
 ## Analista de Requistos - SECTOTECH
 
 ## Objetivos
-
 Sempre estar, Pensando, Evoluindo, Planejando e Desenvolvendo.
 
-Conhecimentos em:
+Meus Conhecimentos:
 - Java
 - JavaScript
 - Cucumber

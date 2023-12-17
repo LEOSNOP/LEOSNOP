@@ -1,10 +1,11 @@
-#😁😁 Eae de boas 😁😁
+#😁😁 Eae de Boas 😁😁
 
-Leonardo Moraes da Conceição
+Meu Nome > Leonardo Moraes da Conceição
 
 Atualmente sou Analista de Requistos - SECTOTECH
 
 Meus Objetivos
+
 Sempre estar, Pensando, Evoluindo, Planejando e Desenvolvendo.
 
 Meus Conhecimentos:
